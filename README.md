@@ -8,5 +8,5 @@ Pasos a seguir par ala instalación:
 3. Enjoy :D
 
 Creditos:
-Istagram -> @_iambelen
-Twitter  -> @Domperhu
+Istagram -> www.instagram.com/_iambelen
+Twitter  -> www.twitter.com/Domperhu
