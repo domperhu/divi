@@ -16,8 +16,6 @@ Pasos a seguir par ala instalación ( Web -> Extensión ):
 5. Enjoy :D
 
 Creditos:
-@domperhu                            
-Twitter  -> www.twitter.com/Domperhu  
+@domperhu => Twitter  -> www.twitter.com/Domperhu  
 
-@_iambelen
-Istagram -> www.instagram.com/_iambelen
+@_iambelen => Istagram -> www.instagram.com/_iambelen
