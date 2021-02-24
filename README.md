@@ -1,4 +1,4 @@
-# divi
+# Divi
 Aplicación para Android y extensión para ser Toxic@ más rápido.
 
 Pasos a seguir par ala instalación ( Android -> .apk ):
